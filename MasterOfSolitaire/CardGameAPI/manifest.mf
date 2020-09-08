@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+OpenIDE-Module: it.markreds.cardgame.api
+OpenIDE-Module-Localizing-Bundle: it/markreds/cardgame/api/Bundle.properties
